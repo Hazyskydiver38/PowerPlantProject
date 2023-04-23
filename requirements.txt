@@ -1,2 +1,4 @@
 ee
 geemap
+matplotlib.pyplot
+pandas
